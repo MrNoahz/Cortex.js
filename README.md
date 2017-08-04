@@ -6,6 +6,7 @@
 
 A simple example of how to use the library
 The following code will create a basic network with 3 input neurons, 1 hidden layer with 4 neurons, and 2 output neurons
+
 <img src="https://cdn-images-1.medium.com/max/1200/1*5GSpUs2hWFx4Lq2_KCyulg.png" alt="Basic neural network" width=300px/>
 
 ```javascript
