@@ -45,7 +45,7 @@ let Cortex = {
 	}
 }
 
-class Perceptron {
+class Perceptron {asdf
 	/**
 	* @summary Create an instance of a Perceptron
 	* @name Perceptron
